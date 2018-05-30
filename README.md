@@ -1,7 +1,9 @@
 node-macaddress
 ===============
 
-[![Build Status](https://travis-ci.org/scravy/node-macaddress.svg?branch=master)](https://travis-ci.org/scravy/node-macaddress)
+Forked from https://github.com/scravy/node-macaddress.  This repo will be maintained for security fixes and is open to feature pull requests from the community.
+
+[![Build Status](https://travis-ci.org/flypapertech/node-macaddress.svg?branch=master)](https://travis-ci.org/flypapertech/node-macaddress/settings)
 
 Retrieve MAC addresses in Linux, OS X, and Windows.
 

@@ -1,5 +1,5 @@
 {
-  "name": "macaddress",
+  "name": "@flypapertech/macaddress",
   "version": "0.2.10",
   "description": "Get the MAC addresses (hardware addresses) of the hosts network interfaces.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/scravy/node-macaddress.git"
+    "url": "https://github.com/flypapertech/node-macaddress.git"
   },
   "keywords": [
     "mac",
@@ -17,10 +17,10 @@
     "network",
     "system"
   ],
-  "author": "Julian Fleischer",
+  "author": "Nick Fredricks",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scravy/node-macaddress/issues"
+    "url": "https://github.com/flypapertech/node-macaddress/issues"
   },
-  "homepage": "https://github.com/scravy/node-macaddress"
+  "homepage": "https://github.com/flypapertech/node-macaddress"
 }
